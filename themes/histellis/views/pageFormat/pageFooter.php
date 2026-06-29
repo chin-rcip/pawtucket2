@@ -38,7 +38,7 @@
 						<a href="https://www.canada.ca/en/heritage-information-network/corporate/contact.html" class="text-bg-dark small" target="_blank">Contact Us</a>
 					</div>
 					<div class="col-md-6 text-start text-md-end">
-						<p>Just a test by hamid new version</p>
+						<p>Worked on 29/06/2026</p>
 					</div>
 				</div>
 			</div>
